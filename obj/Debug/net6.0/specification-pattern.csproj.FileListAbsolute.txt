@@ -1,0 +1,15 @@
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.csproj.AssemblyReference.cache
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.AssemblyInfoInputs.cache
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.AssemblyInfo.cs
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.csproj.CoreCompileInputs.cache
+/workspaces/specification-pattern/bin/Debug/net6.0/specification-pattern
+/workspaces/specification-pattern/bin/Debug/net6.0/specification-pattern.deps.json
+/workspaces/specification-pattern/bin/Debug/net6.0/specification-pattern.runtimeconfig.json
+/workspaces/specification-pattern/bin/Debug/net6.0/specification-pattern.dll
+/workspaces/specification-pattern/bin/Debug/net6.0/specification-pattern.pdb
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.dll
+/workspaces/specification-pattern/obj/Debug/net6.0/refint/specification-pattern.dll
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.pdb
+/workspaces/specification-pattern/obj/Debug/net6.0/specification-pattern.genruntimeconfig.cache
+/workspaces/specification-pattern/obj/Debug/net6.0/ref/specification-pattern.dll
